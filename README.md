@@ -7,4 +7,4 @@ Interested in making life easier by creating utility tools.
 
 ## 📫 Reach me at 
 - [Email](mailto:ruffoli99@gmail.com)
-- [Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/edoardoruffoli)
+- [[Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/edoardoruffoli)
