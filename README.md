@@ -5,7 +5,7 @@ Interested in making life easier by creating utility tools.:milky_way:
 - :telescope: I’m currently at the third year of Bachelor's Degree.
 - ⚡  Available for Freelance projects/internship opportunities.
 
-## :phone: Contacts
-- [Email](mailto:ruffoli99@gmail.com):email: 
-- [LinkedIn](https://www.linkedin.com/in/edoardoruffoli)[![Linkedin](https://i.stack.imgur.com/gVE0j.png)]
-- [My web page](https://edoardoruffoli.github.io) (work in progress) :warning:
+## :phone: Contacts and Links
+- :email: [Email](mailto:ruffoli99@gmail.com)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)][LinkedIn](https://www.linkedin.com/in/edoardoruffoli)
+- :earth_americas: [My web page](https://edoardoruffoli.github.io) (work in progress)
