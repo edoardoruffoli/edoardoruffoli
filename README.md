@@ -6,5 +6,5 @@ Interested in making life easier by creating utility tools.
 - ⚡  Available for Freelance projects/internship opportunities.
 
 ## Contacts
-- 📫[Email](mailto:ruffoli99@gmail.com)
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/edoardoruffoli)
+- 📫[ Email](mailto:ruffoli99@gmail.com)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/edoardoruffoli)
