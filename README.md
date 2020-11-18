@@ -3,7 +3,7 @@ I'm Edoardo a 21 years old **Computer Engineering Student** at University of Pis
 Interested in making life easier by creating utility tools.:milky_way:
 
 - :telescope: I’m currently at the third year of Bachelor's Degree.
-- ⚡  Available for Freelance projects/internship opportunities.
+- :zap:  Available for Freelance projects/internship opportunities.
 
 ## :phone: Contacts and Links
 - :email: [Email](mailto:ruffoli99@gmail.com)
