@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm Edoardo a 21 years old **computer engineering student** at University of Pisa 💻.\
+I'm Edoardo a 21 years old **Computer Engineering Student** at University of Pisa 💻.\
 Interested in making life easier by creating utility tools.
 
 - 🔭 I’m currently at the third year of Bachelor's Degree.
