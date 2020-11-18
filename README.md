@@ -6,6 +6,6 @@ Interested in making life easier by creating utility tools.:milky_way:
 - ⚡  Available for Freelance projects/internship opportunities.
 
 ## :phone: Contacts
-- :email: [Email](mailto:ruffoli99@gmail.com)
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/edoardoruffoli)
-- :warning: [My web page](https://edoardoruffoli.github.io) (work in progress) 
+- [Email](mailto:ruffoli99@gmail.com):email: 
+- [LinkedIn](https://www.linkedin.com/in/edoardoruffoli)[![Linkedin](https://i.stack.imgur.com/gVE0j.png)]
+- [My web page](https://edoardoruffoli.github.io) (work in progress) :warning:
