@@ -5,6 +5,6 @@ Interested in making life easier by creating utility tools.
 - 🔭 I’m currently at the third year of Bachelor's Degree.
 - ⚡  Available for Freelance projects/internship opportunities.
 
-## Contacts
+## :phone: Contacts
 - 📫[ Email](mailto:ruffoli99@gmail.com)
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/edoardoruffoli)
