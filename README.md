@@ -8,5 +8,4 @@ Interested in making life easier by creating utility tools.:milky_way:
 ## :phone: Contacts and Links
 - :email: [Email](mailto:ruffoli99@gmail.com)
 - ![LinkedIn](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/edoardoruffoli)
-## - :earth_americas: [My web page](https://edoardoruffoli.github.io) (work in progress)
 
