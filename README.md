@@ -2,7 +2,7 @@
 I'm Edoardo a 22 years old **Artificial Intelligence Student** at University of Pisa :computer:.\
 Interested in making life easier by creating utility tools.:milky_way:
 
-- :telescope: I’m currently at the third year of Bachelor's Degree.
+- :telescope: I’m currently at the first year of Master's Degree.
 - :zap:  Available for Freelance projects/internship opportunities.
 
 ## :phone: Contacts and Links
