@@ -1,5 +1,5 @@
 # :wave: Hi there!
-I'm Edoardo a 21 years old **Computer Engineering Student** at University of Pisa :computer:.\
+I'm Edoardo a 22 years old **Computer Engineering Student** at University of Pisa :computer:.\
 Interested in making life easier by creating utility tools.:milky_way:
 
 - :telescope: I’m currently at the third year of Bachelor's Degree.
